@@ -83,6 +83,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+        borderWidth: 3
       title:
         textAlign: left
       subtitle:
